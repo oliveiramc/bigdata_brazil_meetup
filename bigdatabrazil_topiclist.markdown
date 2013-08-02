@@ -37,6 +37,8 @@
 1. CFA and SEM with psych and lavaan - Joao (remote)??
 1. MongoDB API, mongoHQ, and queries - Marcelo??
 1. D2RQ and sql-rdf conversion - Marcelo??
+1. MongoDB API, mongoHQ, and queries - Marcelo
+1. D2RQ and sql-rdf conversion - Marcelo
 1. QCA (logic and fuzzy logic) for qualitative studies - Joao??
 1. text mining with tm and NLTK - Jacson??
 1. R and BIs - Jacson??
